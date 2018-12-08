@@ -1,0 +1,8 @@
+#ifndef MINIMSHADOW_EXPRESSION_H
+#define MINIMSHADOW_EXPRESSION_H
+
+namespace MiniMShadow {
+    
+}
+
+#endif //MINIMSHADOW_EXPRESSION_H
